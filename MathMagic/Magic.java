@@ -1,4 +1,11 @@
 public class Magic {
+    /* This program is just to practice arithmetic in java.
+     * It performs a math trick that will always return the number 3
+     * no matter what number you start with.
+     * Author: Guido Fajardo
+     * Date: 06/12/2024
+     */
+
 	public static void main(String[] args) {
     //myNumber is the original number.
 
