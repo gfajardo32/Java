@@ -30,7 +30,7 @@ public class Calculator {
       }
       return a / b;
     }
-    //this method returns the remainde of ints a and b and r
+    //this method returns the remainder of ints a and b
     public int modulo(int a, int b){
       int result = a % b;
       return result;
