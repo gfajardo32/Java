@@ -23,9 +23,12 @@ public class Calculator {
       return result;
     }
     //this method divides ints a and b and returns the result
-    public int divide(int a, int b){
-      int result = a / b;
-      return result;
+    public int divide(int a, int b) {
+      if (b == 0) {
+        System.out.println("Error: Division by zero");
+        return 0;
+      }
+      return a / b;
     }
     //this method returns the remainde of ints a and b and r
     public int modulo(int a, int b){
