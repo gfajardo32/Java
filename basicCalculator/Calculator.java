@@ -1,4 +1,4 @@
-package basicCalculator;
+package basiccalculator;
 
 public class Calculator {
   /* This program is a basic calculator. It contains methods 

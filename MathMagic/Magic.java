@@ -1,3 +1,4 @@
+package mathmagic;
 public class Magic {
     /* This program is just to practice arithmetic in java.
      * It performs a math trick that will always return the number 3
