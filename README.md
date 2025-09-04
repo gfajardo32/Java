@@ -1,2 +1,2 @@
 # Java
-Me Learning JAVA
+Learning JAVA
